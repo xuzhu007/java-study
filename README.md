@@ -21,22 +21,22 @@
 
 ## 项目结构
 
-    com.pancm.arithmetic - 一些算法相关类 
-    com.pancm.basics - 一些Java基础相关类 主要是三大特性、修饰符、io、集合、反射、克隆等等相关代码
-    com.pancm.bigdata - 大数据相关的类 主要是hbase、storm、zookeeper等等相关的代码
-    com.pancm.commons - 一些第三方工具类的测试用例 主要是apache commons、apache lang、google common、google guava、joda等等一些工具包测试使用代码
-    com.pancm.design -  设计模式相关的示例类 包含常用的23种设计模式
-    com.pancm.elasticsearch -  elasticsearch相关使用的测试用例，包括索引mapping的创建、全文检索、聚合查询等等
-    com.pancm.jdk8 -    jdk1.8相关的类 主要是lambda、stream以及LocalDateTime等等测试代码
-    com.pancm.mq - 一些消息中间件的类，主要包含kafka、rabbitmq相关的测试代码
-    com.pancm.nio - 一些nio框架，主要是netty和mina
-    com.pancm.others - 一些不知道怎么定义的测试类，Jsoup(爬虫)、logback、lombok等等测试代码
-    com.pancm.pojo -  实体相关类
-    com.pancm.question - 一些面试可能会问的问题的类
-    com.pancm.redis - redis相关使用的类
-    com.pancm.sql -   一些数据库相关的类
-    com.pancm.thread - 一些线程相关的类 从基本的使用到各种并发的测试类
-    com.pancm.utils - 一些常用的工具类 主要是Json数据转换，日期转换，二维码图片生成工具类，常用的AES、MD5、BASE64等等编码解码工具类，redis、kafka、zookeeper等等工具类
+    com.lxd.arithmetic - 一些算法相关类
+    com.lxd.basics - 一些Java基础相关类 主要是三大特性、修饰符、io、集合、反射、克隆等等相关代码
+    com.lxd.bigdata - 大数据相关的类 主要是hbase、storm、zookeeper等等相关的代码
+    com.lxd.commons - 一些第三方工具类的测试用例 主要是apache commons、apache lang、google common、google guava、joda等等一些工具包测试使用代码
+    com.lxd.design -  设计模式相关的示例类 包含常用的23种设计模式
+    com.lxd.elasticsearch -  elasticsearch相关使用的测试用例，包括索引mapping的创建、全文检索、聚合查询等等
+    com.lxd.jdk8 -    jdk1.8相关的类 主要是lambda、stream以及LocalDateTime等等测试代码
+    com.lxd.mq - 一些消息中间件的类，主要包含kafka、rabbitmq相关的测试代码
+    com.lxd.nio - 一些nio框架，主要是netty和mina
+    com.lxd.others - 一些不知道怎么定义的测试类，Jsoup(爬虫)、logback、lombok等等测试代码
+    com.lxd.pojo -  实体相关类
+    com.lxd.question - 一些面试可能会问的问题的类
+    com.lxd.redis - redis相关使用的类
+    com.lxd.sql -   一些数据库相关的类
+    com.lxd.thread - 一些线程相关的类 从基本的使用到各种并发的测试类
+    com.lxd.utils - 一些常用的工具类 主要是Json数据转换，日期转换，二维码图片生成工具类，常用的AES、MD5、BASE64等等编码解码工具类，redis、kafka、zookeeper等等工具类
 
 ## 相关文章
 
